@@ -1,0 +1,6 @@
+{
+  "name": "Buddha Bistrô Asiático - Cardápio Interativo & Reservas",
+  "description": "Cardápio interativo e sistema de reservas do Buddha Bistrô Asiático em Salvador. Gastronomia pan-asiática contemporânea, comanda virtual e pedidos diretos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
